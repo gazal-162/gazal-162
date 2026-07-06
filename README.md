@@ -55,7 +55,7 @@ B.Tech CSE Student at NIT Srinagar • Frontend Developer • MERN Stack Learner
 ### 🛠️ Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
@@ -88,13 +88,6 @@ B.Tech CSE Student at NIT Srinagar • Frontend Developer • MERN Stack Learner
 
 🍴 Modern restaurant website built using React with responsive components.
 
----
-
-## 🤖 Velora AI
-
-💬 AI chatbot interface inspired by modern conversational AI.
-
-> Educational portfolio project. Not affiliated with Google or any AI company.
 
 ---
 
