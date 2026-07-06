@@ -82,11 +82,6 @@ B.Tech CSE Student at NIT Srinagar • Frontend Developer • MERN Stack Learner
 
 🔗 **Live Demo:** https://gazal-162.github.io/kidzolo/
 
----
-
-## 🍽️ Maison De Saveur
-
-🍴 Modern restaurant website built using React with responsive components.
 
 
 ---
