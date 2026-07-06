@@ -61,13 +61,9 @@ AI chatbot interface inspired by modern conversational AI.
 ---
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gazal-162&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gazal-162&layout=compact)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=gazal-162)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=gazal-162)
+
 
 ---
 
